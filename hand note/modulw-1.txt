@@ -1,0 +1,45 @@
+codepen website to write code
+variable likhte 5 ta step
+
+variable kemelcase use korte hoy
+
+variable type
+numberc,sringc,boolean
+javascript key seach google
+boolian ke comma deye na
+most of the time js keywords lowercase hoy
+
+var first time key likhte hoy
+meaningful variable name
+
+
+ ..case change index split...
+to conver case of string
+console.log(variablename.toUpperCase());
+console.log(promise.indexOf('promise')); searching promise name
+console.log(variableName.split(' '));
+
+
+
+............ integer float parseInt parseFloat type conversion.....
+integer(round figer)
+ float(fraction2.5)
+ parseInt(conver sting to Integer number)
+ (parseFloat(convering from sring to number type),less riskey about which we do know
+number1 = +number1(shortly conversion from string
+
+number1 = ' '+number1;(conversion from num to string
+
+total = total.toFixed(5 or 1);
+
+%(modulas,) to get reminder
+price1++;(add 1 more width same variable)
+price1--;(subatract 1 more width same variable)
+
+var result =price1 + ' ' + number;
+
+absolute( change from negatibe or positivr to positive
+
+var absoluteNumber =Math.abs(number)
+var absoluteNumber =Math.round,floor,ceil(number)
+
